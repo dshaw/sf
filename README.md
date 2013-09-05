@@ -1,11 +1,17 @@
 NodeBots SF
 ===========
 
-NodeBots SF is a regular meetup that started after NodeBots Day. Depending on interest, let's try to get together either one a month or once a quarter. I think there's enough interest to do monthly.
+NodeBots SF is a regular meetup that started after Interational NodeBots Day in 2013.
+
+## Schedule
+
+* First meetup: September!
 
 ## Organizers
 
-@dshaw, ...
+@dshaw, @rockbot, @nexxy, @mdp
+
+Say hi. Give them a hug. Maybe follow them on Twitter.
 
 ## Meetings
 
